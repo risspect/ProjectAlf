@@ -298,7 +298,7 @@ with bot:
                 result = builder.article(
                     "Please Use Only With .help Command",
                     text="{}\nTotal loaded modules: {}".format(
-                        "[ProjectAlf](https://github.com/alfianandaa/ProjectAlf) modules helper.\n",
+                        "Punya Mas [Alfi Ananda](https://github.com/alfianandaa/ProjectAlf) modules helper.\n",
                         len(dugmeler),
                     ),
                     buttons=buttons,
